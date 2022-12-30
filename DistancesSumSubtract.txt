@@ -1,0 +1,14 @@
+****************************************************
+…..Adding Two Distances….
+1.	Introduction:
+In this program we are going to add the two distances one in meter and centimeter and other in feet and inches. We have to display the result in meter and centimeter and feet and inches separately.
+2.	Explanation:
+In this program we have to print out the sum of the two distances for that we are using the concept of Friend Function which states that:
+•	 A friend function is a special function in C++ which in-spite of not being member function of a class has privilege to access private and protected data of a class.
+•	A friend function is a non member function or ordinary function of a class, which is declared as a friend using the keyword “friend” inside the class. By declaring a function as a friend, all the access permissions are given to the function.
+•	The keyword “friend” is placed only in the function declaration of the friend function and not in the function definition
+Here, we use two classes as dist1,dist2 where we are going to enter the numbers one in meter and centimeter in the dist1 class and feet ,inches in the class dist2.In both the classes we used two Friend function one for the addition and the second for the subtraction. In Function definition we write the logic for the conversion into other system and taking out the addition and subtraction in two separates function definition.
+****************************************************
+ 
+ 
+
