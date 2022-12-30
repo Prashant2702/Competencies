@@ -1,0 +1,10 @@
+************************************************
+....SquareRoots....
+1.Introduction:
+In this program we are going to find out all the roots of te quadratic equation.We are goimg to find out  the roots of the quadratic equation by quadratric formula.Firstly we are going to check the discriminant.The term b2-4ac is known as the discriminant of a quadratic equation. The discriminant tells the nature of the roots.
+If discriminant is greater than 0, the roots are real and different.
+If discriminant is equal to 0, the roots are real and equal.
+If discriminant is less than 0, the roots are complex and different.
+2.Expalantion:
+Here in the program we are going to find out the rootrs of the quadratic equation.we are going to find the roots using the Quadratic formula ,firstly we are going to find out the dicriminant and after that program goes on.In this program we used a new header file name as <cmath> (The C++ <cmath> header file declares a set of functions to perform mathematical operations such as: sqrt() to calculate the square root, log() to find natural logarithm of a number etc).whole the program can run using the if else if loop by which we can easily find out the roots.
+************************************************ 
