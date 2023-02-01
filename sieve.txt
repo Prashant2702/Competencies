@@ -1,0 +1,7 @@
+...Sieve of Eratosthenes...
+Finding primes in Range [1:n] without using Sieve of Eratosthenes
+We can check if each number is a prime or not. To check if the number ‘i’ is prime
+we will traverse all the numbers till [2, sqrt(i)] can check if they divide n or not.
+Similarly, we do this for all the n numbers.
+Time Complexity: O(n sqrt n)
+Space Complexity: O(1).
