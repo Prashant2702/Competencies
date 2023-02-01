@@ -1,0 +1,17 @@
+Prime Factorization using Sieve
+Explanation:
+while( num ! = 1 ):
+
+We keep on dividing it with its smallest prime factor.
+
+The smallest prime factor is pre-calculated using a slightly modified prime sieve.
+Since we start from 2 and go on, we mark the first multiple as the spf.
+Preprocessing for Sieve: O(n log log n)
+Time Complexity for factorization: O(log n)
+Space Complexity: O(n).
+
+Sieve of Eratosthenes
+Algorithm: We start from 2, and on each encounter of a prime number, we mark
+its multiples as composite.
+Time Complexity: O(n log log n)
+Space Complexity: O(n).
